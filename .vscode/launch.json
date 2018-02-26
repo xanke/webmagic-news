@@ -17,6 +17,17 @@
         },
         {
             "type": "java",
+            "name": "Debug (Launch)-CnnbNewsProcessor<webmagic-samples>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "us.codecraft.webmagic.model.samples.CnnbNewsProcessor",
+            "projectName": "webmagic-samples",
+            "args": ""
+        },
+        {
+            "type": "java",
             "name": "Debug (Launch)-DianpingFtlDataScanner<webmagic-samples>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
@@ -45,17 +56,6 @@
             "console": "internalConsole",
             "stopOnEntry": false,
             "mainClass": "us.codecraft.webmagic.model.samples.IteyeBlog",
-            "projectName": "webmagic-samples",
-            "args": ""
-        },
-        {
-            "type": "java",
-            "name": "Debug (Launch)-CnnbNewsProcessor<webmagic-samples>",
-            "request": "launch",
-            "cwd": "${workspaceFolder}",
-            "console": "internalConsole",
-            "stopOnEntry": false,
-            "mainClass": "us.codecraft.webmagic.samples.CnnbNewsProcessor",
             "projectName": "webmagic-samples",
             "args": ""
         },
